@@ -17,5 +17,6 @@ title: Extensible Markup Language (XML)
 
 ### More information
 
+* [What is XML](https://www.javatpoint.com/what-is-xml)
 * [XML Introduction](https://developer.mozilla.org/en-US/docs/XML_introduction)
 * [Introduction to XML](https://www.w3schools.com/xml/xml_whatis.asp)
